@@ -9,6 +9,7 @@
 
 .about__role {
   margin-top: 1.2em;
+  margin-bottom: 0.7em;
 }
 
 .about__desc {
@@ -27,6 +28,11 @@
 
 .about .btn--outline {
   margin-right: 1em;
+}
+
+.MuiChip-label {
+  margin: 0.4em;
+  color:var(--clr-fg-alt);
 }
 
 @media (max-width: 600px) {
